@@ -1,0 +1,5 @@
+city,country,uc_pop_kontur2023,uc_area_km2,n_h3,utm,exceeds_bbox,bounds,n_urban_centres_in_window
+paris,FR,9527007,1469.0,2208,EPSG:32631,False,"[1.886, 48.569, 2.685, 49.061]",8
+vienna,AT,1937799,345.5,473,EPSG:32633,False,"[16.209, 48.035, 16.555, 48.31]",1
+tokyo,JP,32799707,5085.4,7488,EPSG:32654,True,"[139.154, 35.174, 140.292, 36.208]",15
+shenzhen,CN,37728228,4923.4,6776,EPSG:32649,True,"[113.091, 22.453, 114.383, 23.495]",36

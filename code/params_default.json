@@ -1,0 +1,10 @@
+{"_note":"Uncalibrated starting values. Documented: Walk Score categories/weights (Street Smart, from Kim et al. 2019 / Statistics Canada 2015), 0.25 mi plateau, zero after 1.5 mi, penalty tables; Transit Score mode weights 2/1.5/1 and log normalisation; Bike Score class ratios path=2x lane=3x shared, 1000 m cut-off, hill 2%->100 10%->0, component weights. Inferred: decay table shape, penalty buffer 800 m, Transit a/b, bike lane_ref and decay shape.",
+"walk":{"weights":{"grocery":[3],"restaurants":[0.75,0.45,0.25,0.25,0.225,0.225,0.225,0.225,0.2,0.2],"shopping":[0.5,0.45,0.4,0.35,0.3],"coffee":[1.25,0.75],"banks":[1],"parks":[1],"schools":[1],"books":[1],"entertainment":[1]},
+ "total_weight":15,
+ "decay":{"type":"table","table":[[0,1],[402.3,1],[804.7,0.85],[1207,0.55],[1609.3,0.12],[2011.7,0.05],[2414,0]]},
+ "intersection_penalty":[[0,60,5],[60,90,4],[90,120,3],[120,150,2],[150,200,1],[200,1e12,0]],
+ "block_penalty":[[0,120,0],[120,150,1],[150,165,2],[165,180,3],[180,195,4],[195,1e12,5]]},
+"transit":{"a":-30.0,"b":12.0,"mode_weights":{"2.0":2.0,"1.5":1.5,"1.0":1.0}},
+"bike":{"class_weights":{"path":1.0,"lane":0.5,"shared":0.3333},"lane_cut":1000.0,"lane_decay_pow":1.0,"lane_ref":6000.0,
+ "grade_col":"grade_max","hill_full":2.0,"hill_zero":10.0,
+ "component_weights":{"lanes":0.5,"hills":0.25,"destinations":0.25}}}

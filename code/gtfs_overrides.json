@@ -1,0 +1,3 @@
+{"_note":"Corrections to route_type where a feed codes a rail service as bus. Applied before mode weights. Evidence: line names S1-S8 are Munich S-Bahn (rail), coded route_type 3 in the MVV feeds.",
+ "de-bavaria-munchner-verkehrs--und-tarifverbund-gmbh-mvv-gtfs-2365":[{"line_regex":"^S\\d+$","from_types":["3"],"route_type":2}],
+ "de-bayern-munchner-verkehrs-und-tarifverbund-mvv-gtfs-779":[{"line_regex":"^S\\d+$","from_types":["3"],"route_type":2}]}

@@ -1,0 +1,30 @@
+city,status,meaning,overture_subtype,n_units,km2
+nyc,ok,City of New York (5 boroughs),locality,1,1218.2
+chicago,ok,City of Chicago,locality,1,606.8
+losangeles,ok,City of Los Angeles,locality,1,1361.3
+boston,ok,City of Boston,locality,1,246.0
+sanfrancisco,ok,City and County of San Francisco,county,1,122.0
+seattle,ok,City of Seattle,locality,1,373.1
+washington,ok,District of Columbia,locality,1,177.2
+portland,ok,City of Portland,locality,1,374.3
+philadelphia,ok,City of Philadelphia,locality,1,368.9
+minneapolis,ok,City of Minneapolis,locality,1,148.7
+toronto,ok,City of Toronto,county,1,665.7
+paris,ok,Commune de Paris (20 arrondissements),locality,1,105.3
+munich,ok,Landeshauptstadt München,county,1,310.7
+vienna,ok,Wien (Land and Gemeinde),region,1,414.6
+lisbon,ok,Município de Lisboa,county,1,86.8
+amsterdam,ok,Gemeente Amsterdam,locality,1,219.4
+madrid,ok,Municipio de Madrid,locality,1,603.9
+barcelona,ok,Municipi de Barcelona,locality,1,101.3
+milan,ok,Comune di Milano,locality,1,181.8
+rome,ok,Roma Capitale (comune),locality,1,1286.0
+tokyo,ok,Tokyo 23 special wards (ku-bu); Tokyo Metropolis also reported,locality,23,723.7
+osaka,ok,Osaka-shi,county,1,224.3
+moscow,ok,City of federal significance incl. New Moscow,region,1,2561.3
+stpetersburg,ok,City of federal significance,region,1,1454.0
+shanghai,ok,Shanghai municipality (incl. rural districts),region,1,7409.2
+beijing,ok,Beijing municipality (incl. rural districts),region,1,16504.8
+shenzhen,ok,Shenzhen-shi (prefecture-level city),county,1,2430.7
+london,ok,Greater London: 32 London boroughs + City of London,neighborhood,33,1594.8
+berlin,ok,Land Berlin (city-state),region,1,890.7

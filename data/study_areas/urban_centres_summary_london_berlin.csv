@@ -1,0 +1,3 @@
+city,country,uc_pop_kontur2023,uc_area_km2,n_h3,utm,exceeds_bbox,bounds,n_urban_centres_in_window
+london,GB,10019252,1640.0,2447,EPSG:32630,False,"[-0.644, 51.275, 0.318, 51.791]",47
+berlin,DE,3754834,725.0,1101,EPSG:32633,False,"[13.109, 52.371, 13.661, 52.691]",4

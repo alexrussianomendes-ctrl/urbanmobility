@@ -1,0 +1,137 @@
+{
+ "paris": [
+  "fr-paris-ile-de-france-mobilite-gtfs-1026"
+ ],
+ "munich": [
+  "de-bavaria-munchner-verkehrsgesellschaft-mvg-gtfs-2333",
+  "de-bavaria-munchner-verkehrs--und-tarifverbund-gmbh-mvv-gtfs-2365"
+ ],
+ "vienna": [
+  "at-unknown-obb-gtfs-2138",
+  "at-wien-wiener-lokalbahnen-wlb-gtfs-648"
+ ],
+ "lisbon": [
+  "pt-lisboa-carris-gtfs-2929",
+  "pt-lisboa-carris-metropolitana-gtfs-2027",
+  "pt-lisboa-metro-de-lisboa-metro-gtfs-1036",
+  "pt-unknown-cp---comboios-de-portugal-gtfs-2057",
+  "pt-lisboa-fertagus-gtfs-1034",
+  "pt-lisbon-lisbon-transtejo-soflu-gtfs-2921",
+  "pt-lisboa-metro-transportes-do-sul-gtfs-2408",
+  "pt-lisboa-mobi-cascais-gtfs-1272"
+ ],
+ "amsterdam": [
+  "nl-unknown-allgo-keolis-gtfs-1077"
+ ],
+ "madrid": [
+  "es-madrid-metro-de-madrid-gtfs-794",
+  "es-madrid-empresa-municipal-de-transportes-de-madrid-emt-madrid-gtfs-793",
+  "es-madrid-autobuses-interurbanos-madrid-crtm-gtfs-791",
+  "es-madrid-crtm-light-rail-gtfs-2802",
+  "es-madrid-crtm-city-bus-gtfs-2820",
+  "es-unknown-renfe-cercanias-gtfs-2653"
+ ],
+ "barcelona": [
+  "es-barcelona-transports-metropolitans-de-barcelona-tmb-gtfs-2359",
+  "es-catalunya-ferrocarrils-de-la-generalitat-de-catalunya-gtfs-1856",
+  "es-barcelona-tram-gtfs-1003",
+  "es-barcelona-trambesos-gtfs-1004",
+  "es-barcelona-amb-gtfs-1101",
+  "es-unknown-renfe-cercanias-gtfs-2653"
+ ],
+ "milan": [
+  "it-lombardia-milan-atm-gtfs-2666",
+  "it-lombardia-trenord-gtfs-855"
+ ],
+ "rome": [
+  "it-lazio-roma-servizi-per-la-mobilita-gtfs-1294",
+  "it-unknown-trenitalia-spa-gtfs-840"
+ ],
+ "tokyo": [
+  "jp-tokyo-toei-bus-gtfs-3175",
+  "jp-tokyo-toei-train-gtfs-3176"
+ ],
+ "stpetersburg": [
+  "ru-sankt-peterburg-peterburgskii-metropoliten-petersburg-metro-gtfs-1186"
+ ],
+ "nyc": [
+  "us-new-york-mta-new-york-city-transit-gtfs-512",
+  "us-new-york-mta-new-york-city-transit-mta-gtfs-510",
+  "us-new-york-mta-new-york-city-transit-mta-gtfs-511",
+  "us-new-york-mta-new-york-city-transit-mta-gtfs-513",
+  "us-new-york-mta-new-york-city-transit-mta-gtfs-514",
+  "us-new-york-mta-new-york-city-transit-mta-gtfs-516",
+  "us-new-york-mta-new-york-city-transit-mta-gtfs-520",
+  "us-new-york-mta-new-york-city-transit-mta-gtfs-528",
+  "us-new-york-long-island-rail-road-gtfs-3136",
+  "us-new-york-mta-metro-north-railroad-gtfs-3110",
+  "us-new-jersey-new-jersey-transit-nj-transit-gtfs-508",
+  "us-new-jersey-new-jersey-transit-nj-transit-gtfs-509",
+  "us-new-jersey-port-authority-trans-hudson-path-gtfs-517",
+  "us-new-york-nyc-ferry-gtfs-515",
+  "us-new-york-staten-island-ferry-gtfs-518",
+  "us-new-york-ny-waterway-gtfs-3192"
+ ],
+ "chicago": [
+  "us-illinois-chicago-transit-authority-cta-gtfs-389",
+  "us-illinois-metra-gtfs-2854",
+  "us-illinois-pace-bus-gtfs-2347"
+ ],
+ "losangeles": [
+  "us-california-los-angeles-county-metropolitan-transportation-authority-gtfs-29",
+  "us-california-la-metro-rail-gtfs-30",
+  "us-california-los-angeles-department-of-transportation-ladot-gtfs-1210",
+  "us-california-big-blue-bus-gtfs-37",
+  "us-california-long-beach-transit-lbt-gtfs-1198",
+  "us-california-foothill-transit-gtfs-101",
+  "us-california-orange-county-transportation-authority-octa-gtfs-15",
+  "us-california-culver-city-bus-gtfs-38",
+  "us-california-montebello-bus-lines-gtfs-2201",
+  "us-california-norwalk-transit-system-nts-gtfs-2242",
+  "us-california-torrance-transit-gtfs-34",
+  "us-california-pasadena-transit-gtfs-41",
+  "us-california-metrolink-gtfs-96"
+ ],
+ "boston": [
+  "us-massachusetts-massachusetts-bay-transportation-authority-mbta-gtfs-437"
+ ],
+ "sanfrancisco": [
+  "us-california-san-francisco-municipal-transportation-agency-sfmta-gtfs-2886",
+  "us-california-bay-area-rapid-transit-bart-gtfs-53",
+  "us-california-caltrain-gtfs-54",
+  "us-california-san-francisco-bay-area-water-emergency-transportation-authority-gtfs-3143"
+ ],
+ "seattle": [
+  "us-washington-king-county-metro-gtfs-1330",
+  "us-washington-sound-transit-gtfs-268"
+ ],
+ "washington": [
+  "us-district-of-columbia-washington-wmata-gtfs-1846",
+  "us-district-of-columbia-washington-wmata-gtfs-1847",
+  "us-virginia-arlington-transit-gtfs-485",
+  "us-virginia-alexandria-transit-company-dash-gtfs-482",
+  "us-maryland-prince-georges-county-the-bus-gtfs-477",
+  "us-district-of-columbia-dc-streetcar-gtfs-2223"
+ ],
+ "portland": [
+  "us-oregon-trimet-portland-streetcar-gtfs-247"
+ ],
+ "philadelphia": [
+  "us-pennsylvania-southeastern-pennsylvania-transportation-authority-gtfs-502",
+  "us-pennsylvania-southeastern-pennsylvania-transportation-authority-gtfs-503",
+  "us-new-jersey-patco-speedline-gtfs-3035"
+ ],
+ "minneapolis": [
+  "us-minnesota-metro-transit-metro-transit-met-council-maple-grove-plymouth-southwest-transit-airport-mac-university-of-minnesota-catch-the-link-gtfs-205"
+ ],
+ "toronto": [
+  "ca-ontario-toronto-transit-commission-gtfs-2253",
+  "ca-ontario-go-transit-gtfs-1993"
+ ],
+ "london": [
+  "gb-bods-london-subset"
+ ],
+ "berlin": [
+  "de-berlin-verkehrsverbund-berlin-brandenburg-gtfs-782"
+ ]
+}

@@ -1,0 +1,8 @@
+work/
+__pycache__/
+*.pyc
+results/cells/
+results/cells_all.*
+results/*.parquet
+data/moscow_datamos/
+data/validation/

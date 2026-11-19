@@ -1,0 +1,19 @@
+variant,level,set,n,MAE,RMSE,bias
+osm_v1,city,calibration,7,10.15,11.87,-6.46
+osm_v1,city,test,3,7.55,7.8,-7.55
+osm_v1,point,calibration,60,7.3,9.91,-2.82
+osm_v1,point,test,60,7.69,12.12,-5.95
+osm_v2,city,calibration,7,9.99,11.62,-6.18
+osm_v2,city,test,3,7.17,7.4,-7.17
+osm_v2,point,calibration,60,7.32,9.94,-2.61
+osm_v2,point,test,60,7.49,11.91,-5.49
+osm_railgtfs,city,calibration,7,10.44,12.63,-7.11
+osm_railgtfs,city,test,3,7.64,7.82,-7.64
+osm_railgtfs,point,calibration,60,7.11,9.86,-3.16
+osm_railgtfs,point,test,60,7.52,11.77,-5.93
+osm_railpub_mean,city,calibration,7,10.35,12.51,-6.93
+osm_railpub_mean,city,test,3,7.43,7.59,-7.43
+osm_railpub,point,calibration,60,7.14,9.89,-2.98
+osm_railpub,point,test,60,7.44,11.7,-5.74
+gtfs (reference),point,calibration,60,3.62,4.57,-0.56
+gtfs (reference),point,test,60,5.14,6.26,1.47

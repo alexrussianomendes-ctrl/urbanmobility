@@ -1,0 +1,42 @@
+{
+ "_note": "median trips/week in busiest direction per route, GTFS cities, reference week near 2026-11-16",
+ "all": {
+  "subway": 1153.4706971624764,
+  "light_rail": 799.0,
+  "tram": 799.0,
+  "train": 164.0,
+  "bus": 188.0,
+  "ferry": 131.5
+ },
+ "na": {
+  "subway": 931.0,
+  "light_rail": 648.5,
+  "tram": 648.5,
+  "train": 150.0,
+  "bus": 223.0,
+  "ferry": 94.0
+ },
+ "eu": {
+  "subway": 1456.0,
+  "light_rail": 878.0,
+  "tram": 878.0,
+  "train": 174.0,
+  "bus": 166.0,
+  "ferry": 457.0
+ },
+ "asia": {
+  "bus": 268.5
+ },
+ "n": {
+  "subway": 144,
+  "light_rail": 172,
+  "tram": 172,
+  "train": 315,
+  "monorail": 0,
+  "trolleybus": 3,
+  "bus": 7397,
+  "ferry": 54,
+  "funicular": 4,
+  "aerialway": 2
+ }
+}
